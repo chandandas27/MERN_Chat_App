@@ -24,7 +24,7 @@ let userList = async () => {
 
 
  module.exports = {
- loginUser,
+ loginUser, 
  userRegistration,
  userList
  };
